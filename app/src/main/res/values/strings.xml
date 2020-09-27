@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lance os Dados</string>
+    <string name="name_hint">Digite seu nome</string>
+    <string name="start_button_text">Jogar!</string>
+    <string name="name_error_msg">Você esqueceu de colocar seu nome!</string>
+    <string name="roll_button_text">Lançar os dados</string>
+    <string name="hello_msg">Olá!</string>
+    <string name="lucky_draw_msg">Eba! Você está com sorte!</string>
+</resources>
