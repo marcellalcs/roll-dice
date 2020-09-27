@@ -1,4 +1,4 @@
-#Sun Sep 27 16:33:28 BRT 2020
-base.0=/Users/marcellasouza/Documents/Study/wwcOct2020/Dice-Roll/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sun Sep 27 17:17:26 BRT 2020
+base.0=/Users/marcellasouza/Documents/Study/wwcOct2020/lanceDados/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
