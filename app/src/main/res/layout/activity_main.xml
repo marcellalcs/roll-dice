@@ -37,6 +37,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="92dp"
+        android:fontFamily="@font/architects_daughter"
         android:text="@string/etiqueta_dado_2"
         app:layout_constraintBottom_toTopOf="@+id/lanceDadosBotao"
         app:layout_constraintStart_toStartOf="parent"
